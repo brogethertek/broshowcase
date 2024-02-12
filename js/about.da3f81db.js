@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwebsite"]=self["webpackChunkwebsite"]||[]).push([[152],{488:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});var s=t(4108);const u={class:"about"},a=(0,s.QD)("h1",null,"This is an about page",-1),r=[a];function c(n,e){return(0,s.Wz)(),(0,s.An)("div",u,r)}var i=t(4100);const o={},b=(0,i.c)(o,[["render",c]]);var f=b}}]);
+//# sourceMappingURL=about.da3f81db.js.map
