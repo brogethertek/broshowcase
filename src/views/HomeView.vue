@@ -8,7 +8,7 @@
               <div style="position: relative" class="mt-16">
                 <h1 class="text-white">Salut,</h1>
                 <h1 class="text-white">Nous sommes Brogether</h1>
-                <span class="text-white">Renous le lien, brisons la solitude</span><br />
+                <span class="text-white">Renouons le lien, brisons la solitude</span><br />
               </div>
             </v-col>
             <v-col cols="2">
@@ -54,17 +54,17 @@
                 </div>
                 <h4 class="mt-n4">Nous sommes des étudiants d'EPITECH</h4>
                 <p class="text-grey">
-                  Dans le cadre de notre projet de fin d'études nous deviosn répondre à un problème 
+                  Dans le cadre de notre projet de fin d'études nous devions répondre à un problème 
                   et trouver une solution digitale à celle-ci. Nous avons donc décider d'aider et 
-                  essayer de répondre à la porblématique de la misère sociale dans les EHPAD.
+                  essayer de répondre à la problématique de la misère sociale dans les EHPAD.
                 </p>
                 <br />
                 <p class="text-grey">
                   C'est un projet très ambitieux mais qui nous tiens à coeur.
-                  Dans ce porjet nous sommes une équipe de 6 étudiants qui travaillont en développement 
+                  Dans ce projet nous sommes une équipe de 6 étudiants qui travaillont en développement 
                   informatique. Nous avons donc trouver comme solution la mise en place d'une application 
                   web et mobile qui met en lien les EHPAD et des prestataires proposant de activités afin 
-                  de divertir et d'oocuper les journées de nos seniors.
+                  de divertir et d'occuper les journées de nos seniors.
                 </p>
                 <br />
                 <br />
@@ -108,7 +108,7 @@
                   <h3>Enzo Ekobo</h3>
                   <div class="back5">
                     <h3>Backend</h3>
-                    <p>Developpement et création des routes côté Backend. Développement en node JS.</p>
+                    <p>Développement et création des routes côté Backend. Développement en node JS.</p>
                   </div>
                 </div>
                 <div class="flip6">
@@ -128,7 +128,10 @@
                   <h3>Xavier Pain</h3>
                   <div class="back7">
                     <h3>Devops</h3>
-                    <p>DevOps Optimisation & Automatisation de l'infrastructure.</p>
+                    <p>
+                      Optimisation & Automatisation de l'infrastructure. 
+                      Gestion du moyen de paiement.
+                    </p>
                   </div>
                 </div>
               </v-col>
@@ -296,7 +299,7 @@
             <v-btn color="#5892C3" class="mr-2">Tous</v-btn>
             <v-btn class="mr-2" variant="tonal">Activités</v-btn>
             <v-btn class="mr-2" variant="tonal">EHPAD</v-btn>
-            <v-btn class="mr-2" variant="tonal"> Presatatires</v-btn>
+            <v-btn class="mr-2" variant="tonal"> Presatataires</v-btn>
             <v-btn variant="tonal"> Retours</v-btn>
           </div>
         </v-col>
@@ -352,7 +355,7 @@
   
                   <v-card-title> Prestataires </v-card-title>
                   <v-card-text>
-                    Vous voulez agrandir votre public aux seniors ? Vous êtes désireux de partager votre savoir-faire de l'amusement et de l'épanouissement a un public trop souvent mis de côté ? Vous êtes désireux de devenir une référence au prêt de nombreuses structures ? Alors brogether est fait pour vous ! Crée votre profil et rentrez en contact avec tous nos membres.
+                    Vous voulez agrandir votre public aux seniors ? Vous êtes désireux de partager votre savoir-faire de l'amusement et de l'épanouissement a un public trop souvent mis de côté ? Vous êtes désireux de devenir une référence au prêt de nombreuses structures ? Alors BROGETHER est fait pour vous ! Crée votre profil et rentrez en contact avec tous nos membres.
                   </v-card-text>
                 </v-card>
               </v-col>
@@ -362,7 +365,7 @@
   
                   <v-card-title> EHPAD </v-card-title>
                   <v-card-text>
-                    Votre EHPAD est désireuse d'amener joie, amusement et épanouissement a son public ? Vous voulez avoir accès à un panel d'activités divers et varier tout en arrêtant de devoir faire des heures de recherches ? Alors il n'y a plus qu'un pas à faire, votre profil sur BROGHER afin d'avoir accès aux nombreux partenaires désireux de vous proposer des nombreuses activités diverses varie et adapté au bien-être de votre public !
+                    Votre EHPAD est désireuse d'amener joie, amusement et épanouissement a son public ? Vous voulez avoir accès à un panel d'activités divers et varier tout en arrêtant de devoir faire des heures de recherches ? Alors il n'y a plus qu'un pas à faire, votre profil sur BROGETHER afin d'avoir accès aux nombreux partenaires désireux de vous proposer des nombreuses activités diverses varie et adapté au bien-être de votre public !
                   </v-card-text>
                 </v-card>
               </v-col>
